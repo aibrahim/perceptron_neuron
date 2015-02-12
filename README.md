@@ -1,4 +1,4 @@
-# perceptrons
+# Perceptron Neuron
 
 NAND Gate using one perceptron neuron
 
